@@ -1,7 +1,7 @@
 import PythonIntro from "../assets/jpg/Python_Intro.jpg";
 import PythonInter from "../assets/jpg/Python_Intermediate.jpg";
 export const achievementData = {
-	bio: "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+	bio: "I have consistently met clients' requirements by delivering tailored, high-quality web applications that align with their business needs. Through close collaboration and clear communication with stakeholders, I ensured that all technical solutions, from responsive front-end design to robust back-end functionality, precisely matched their specifications. By adhering to deadlines and maintaining flexibility in adjusting to evolving project needs, I successfully delivered results that exceeded client expectations while maintaining the highest code and performance standards.",
 	achievements: [
 		{
 			id: 1,
