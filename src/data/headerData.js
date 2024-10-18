@@ -1,5 +1,5 @@
 import resume from "../assets/pdf/Ans_Riaz_Resume.pdf";
-import Image from "../assets/png/ans_image.jpg";
+import Image from "../assets/jpg/ans_image.jpg";
 
 export const headerData = {
 	name: "Ans Riaz",
