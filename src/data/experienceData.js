@@ -1,6 +1,13 @@
 export const experienceData = [
 	{
 		id: 4,
+		company: "Big-Data Technologies and Innovation Lab, UH (contract - part-time)",
+		jobtitle: "Frontend Engineer",
+		startYear: "01-2025",
+		endYear: "04-2025",
+	},
+	{
+		id: 4,
 		company: "FreeLancing",
 		jobtitle: "Software Engineer",
 		startYear: "03-2021",
